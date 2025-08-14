@@ -81,7 +81,7 @@ nav ul li a:hover {
 
 /* Hero Section */
 #hero {
-    background: url('https://placehold.co/1920x1080/004d40/ffffff?text=Professional%20HR%20Background') no-repeat center center/cover;
+    background: url('https://storage.googleapis.com/gimini/images/4255152864606775670') no-repeat center center/cover;
     color: #ffffff;
     height: 80vh;
     display: flex;
@@ -265,3 +265,4 @@ footer {
     text-align: center;
     padding: 1rem 0;
 }
+
