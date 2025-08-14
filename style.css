@@ -55,7 +55,7 @@ header {
 }
 
 .logo img {
-    height: 60px;
+    height: 100px; /* Increased logo size */
 }
 
 nav ul {
@@ -81,7 +81,7 @@ nav ul li a:hover {
 
 /* Hero Section */
 #hero {
-    background: #004d40 url('stock-business-photo-2.jpg') no-repeat center center/cover;
+    background: url('https://placehold.co/1920x1080/004d40/ffffff?text=Professional%20HR%20Background') no-repeat center center/cover;
     color: #ffffff;
     height: 80vh;
     display: flex;
