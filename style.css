@@ -180,16 +180,16 @@ nav ul { display: none; }
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    height: 150px;
+    height: 200px; /* Increased logo size */
     display: none; /* Hide on mobile */
 }
 
 .hero-logo-left {
-    left: 20px;
+    left: 40px; /* Pushed closer to the edge */
 }
 
 .hero-logo-right {
-    right: 20px;
+    right: 40px; /* Pushed closer to the edge */
 }
 
 @media (min-width: 768px) {
